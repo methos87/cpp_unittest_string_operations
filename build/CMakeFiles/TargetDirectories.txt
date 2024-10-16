@@ -1,0 +1,5 @@
+/home/ros/Documents/string_operations/cpp_unittest_string_operations/build/CMakeFiles/main_program.dir
+/home/ros/Documents/string_operations/cpp_unittest_string_operations/build/CMakeFiles/run_tests.dir
+/home/ros/Documents/string_operations/cpp_unittest_string_operations/build/CMakeFiles/test.dir
+/home/ros/Documents/string_operations/cpp_unittest_string_operations/build/CMakeFiles/edit_cache.dir
+/home/ros/Documents/string_operations/cpp_unittest_string_operations/build/CMakeFiles/rebuild_cache.dir
